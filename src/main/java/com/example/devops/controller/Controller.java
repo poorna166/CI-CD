@@ -8,6 +8,6 @@ public class Controller {
 
 	@GetMapping("/")
 	public String metho() {
-		return "welcome to diligentsquad";
+		return "welcome to diligentsquad ?";
 	}
 }
